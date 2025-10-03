@@ -1,2 +1,2 @@
-# Pr-ctica1MSF
+# Practica1MSF
 Modelado de Sistemas Fisiológicos
