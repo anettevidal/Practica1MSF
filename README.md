@@ -2,8 +2,8 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+## Información de la estudiante
+Anette Mariana Vidal Ortiz \[22212389]; l22212389@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
